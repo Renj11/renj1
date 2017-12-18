@@ -1,0 +1,17 @@
+{
+  "name": "poisskai/albionKillboard",
+  "description": "Albion Discord Killboard",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "poisskai",
+      "email": "poisskai@live.fr"
+    }
+  ],
+  "require": {
+    "dmk1991/albion-online-php-api": "v0.1.1",
+    "nopjmp/discord-webhooks": "0.2.2",
+    "intervention/image": "2.4.1"
+  }
+}
